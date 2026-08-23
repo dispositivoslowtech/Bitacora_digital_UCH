@@ -1,0 +1,20 @@
+// Código 'Hola Mundo' para Arduino Uno 
+// El LED rojo se enciende durante un segundo y luego se apaga durante un segundo, en un bucle constante.
+
+// Definir el pin del LED
+#define LED_PIN 13
+
+void setup() {
+  // Configurar el pin del LED como salida
+  pinMode(LED_PIN, OUTPUT);
+}
+
+void loop() {
+  // Encender el LED
+  digitalWrite(LED_PIN, HIGH);
+  delay(2000); // Esperar un segundo
+
+  // Apagar el LED
+  digitalWrite(LED_PIN, LOW);
+  delay(1000); // Esperar un segundo
+} 
