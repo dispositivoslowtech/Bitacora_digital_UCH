@@ -294,7 +294,7 @@ print("Hola, Capstone")
 ## 6. Estructura mínima recomendada
 
 ```text
-capstone-2026-nombre-equipo/
+Cursolowtech-2026-nombre-equipo/
 │
 ├── README.md
 ├── bitacora/
