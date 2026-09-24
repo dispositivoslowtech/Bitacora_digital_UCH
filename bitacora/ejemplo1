@@ -1,51 +1,35 @@
-# Título principal
+# S01 - Equipo y desafío
 
-## Subtítulo
+**Fecha:** [dd-mm-aaaa]  
+**Participantes:** [Nombres]  
 
-Texto normal y **texto destacado**.
+## Objetivo de la sesión
 
-### Lista
+Rrealizar una primera interpretación del desafío a desarrollar.
 
-- Primer elemento
-- Segundo elemento
-- Tercer elemento
+### Lo que sabemos
 
-### Lista numerada
+- [Evidencia o antecedente 1]
+- [Evidencia o antecedente 2]
 
-1. Primer paso
-2. Segundo paso
-3. Tercer paso
+### Lo que todavía no sabemos
 
-### Lista de tareas
+- [Pregunta 1]
+- [Pregunta 2]
 
-- [x] Actividad terminada
-- [ ] Actividad pendiente
+### Supuestos que debemos comprobar
 
-### Enlace
+- [Supuesto 1]
+- [Supuesto 2]
 
-[Documentación de GitHub](https://docs.github.com/es)
 
-### Imagen
+## Reflexión breve
 
-![Descripción de la imagen](imagenes/S01/foto.jpg)
+**¿Qué fue fácil?**  
+[Respuesta.]
 
-### Cita
+**¿Qué fue difícil o generó desacuerdo?**  
+[Respuesta.]
 
-> Una idea o frase relevante.
-
-### Código en una línea
-
-El archivo principal se llama `README.md`.
-
-### Bloque de código
-
-```python
-print("Hola, Capstone")
-```
-
-### Tabla
-
-| Criterio | Resultado |
-|---|---|
-| Distancia | 6,4 m |
-| Tiempo | 3,2 s |
+**¿Qué necesitamos resolver para la próxima entrega?**  
+[Respuesta.]
