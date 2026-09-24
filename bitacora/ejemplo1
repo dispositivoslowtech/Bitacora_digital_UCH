@@ -1,0 +1,51 @@
+# Título principal
+
+## Subtítulo
+
+Texto normal y **texto destacado**.
+
+### Lista
+
+- Primer elemento
+- Segundo elemento
+- Tercer elemento
+
+### Lista numerada
+
+1. Primer paso
+2. Segundo paso
+3. Tercer paso
+
+### Lista de tareas
+
+- [x] Actividad terminada
+- [ ] Actividad pendiente
+
+### Enlace
+
+[Documentación de GitHub](https://docs.github.com/es)
+
+### Imagen
+
+![Descripción de la imagen](imagenes/S01/foto.jpg)
+
+### Cita
+
+> Una idea o frase relevante.
+
+### Código en una línea
+
+El archivo principal se llama `README.md`.
+
+### Bloque de código
+
+```python
+print("Hola, Capstone")
+```
+
+### Tabla
+
+| Criterio | Resultado |
+|---|---|
+| Distancia | 6,4 m |
+| Tiempo | 3,2 s |
